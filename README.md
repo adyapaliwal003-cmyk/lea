@@ -1,4 +1,5 @@
 # lea
 This is my first Git repo
 <br>
-Author-Adya Paliwal
+Author-Adya Paliwal(Director)
+
